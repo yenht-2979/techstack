@@ -1,5 +1,0 @@
-techstack:
-  application:
-    - laravel:9.52.15
-    - php:8.0.2
-
